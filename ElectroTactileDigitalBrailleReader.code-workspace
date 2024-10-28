@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "ElectroTactileDigitalBrailleReader",
+			"path": ".."
+		},
+		{
+			"name": "ETDBR",
+			"path": "../ETDBR"
+		},
+		{
+			"name": "ETDBR Feather ESP32 V2",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
