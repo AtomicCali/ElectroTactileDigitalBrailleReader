@@ -37,9 +37,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.762,
-          "height": 1.524,
-          "width": 1.524
+          "drill": 0.0,
+          "height": 0.25,
+          "width": 0.25
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -431,7 +431,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "KiCadETDBR.kicad_pro",
+    "filename": "KiCad_ETDBR.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -465,10 +465,10 @@
     "last_paths": {
       "gencad": "",
       "idf": "",
-      "netlist": "",
-      "plot": "",
+      "netlist": "../../../../../Program Files/KiCad/8.0/",
+      "plot": "../gerberExport2/",
       "pos_files": "",
-      "specctra_dsn": "",
+      "specctra_dsn": "../../../Desktop/ETDBR_V1_SingleDigitBoard.dsn",
       "step": "",
       "svg": "",
       "vrml": ""
@@ -576,7 +576,7 @@
   },
   "sheets": [
     [
-      "74bfb0a8-5508-4857-af6e-1f0a2a6b4b4b",
+      "dcf5c6ab-2253-4c46-9eea-c684996014a3",
       "Root"
     ]
   ],
