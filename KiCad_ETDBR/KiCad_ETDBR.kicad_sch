@@ -2188,9 +2188,10 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "518ec223-3d82-4a34-a51b-f7c4ffb4d23e")
+		(fields_autoplaced yes)
+		(uuid "2c89d7ea-e3c2-470f-acbb-7c7982f8104c")
 		(property "Reference" "U2"
-			(at 101.854 76.2 0)
+			(at 101.6 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2232,53 +2233,53 @@
 				(hide yes)
 			)
 		)
-		(pin "-7"
-			(uuid "656c6ef7-bad7-414e-a6d1-c15051b8cf61")
-		)
-		(pin "-2"
-			(uuid "b108d529-63f9-41a8-a8c5-7b3ca1b0c767")
-		)
-		(pin "-4"
-			(uuid "57d78f00-26ec-420d-95cb-e6e39010dbd7")
-		)
-		(pin "5"
-			(uuid "30aed85d-fadd-436b-9a8e-1754d8a8526a")
-		)
-		(pin "-5"
-			(uuid "d2825f84-e9e5-44a4-bc13-5c570610813f")
-		)
-		(pin "3"
-			(uuid "83c320c5-6baa-47e9-9678-0150cc511176")
-		)
-		(pin "1"
-			(uuid "0f975152-6a6a-4ae5-b44a-35178c9ec042")
-		)
-		(pin "2"
-			(uuid "9abf65f9-5dc3-4b73-aff9-1d7db377c5e1")
-		)
-		(pin "-8"
-			(uuid "2460e2c9-fb59-4a2c-9838-b0e82dd54f55")
-		)
 		(pin "-1"
-			(uuid "f82bda1b-83e4-4735-bcab-4bda2eeed59d")
-		)
-		(pin "-6"
-			(uuid "9500d783-a057-4f1a-bdbb-35904fef0b1b")
-		)
-		(pin "-3"
-			(uuid "ec766f77-2132-4930-8e69-8f0d76deac07")
-		)
-		(pin "6"
-			(uuid "41a00e13-3482-47a7-9349-5842117b83f7")
-		)
-		(pin "7"
-			(uuid "4e7d88b0-1703-4d2f-a535-f2d266121024")
+			(uuid "dff2059e-c2c1-4227-9da5-c7e4bd8299dc")
 		)
 		(pin "8"
-			(uuid "7baa0aa8-996c-4be4-acab-cbd5e4874290")
+			(uuid "92bfc232-965a-42c1-aac2-723d7377d986")
+		)
+		(pin "7"
+			(uuid "2c0a7ee2-a487-4016-ae72-714598f597a5")
+		)
+		(pin "1"
+			(uuid "69909e79-ceaa-4d5c-9efd-cd247ecd2903")
+		)
+		(pin "-8"
+			(uuid "7d7332d4-e69a-4b37-b20c-c157d1c32cdd")
+		)
+		(pin "-6"
+			(uuid "93996909-a74c-4e9f-badd-dc51ee016881")
+		)
+		(pin "2"
+			(uuid "5afeab04-c368-4ca5-9ac3-02a36567bab0")
+		)
+		(pin "-5"
+			(uuid "fcf545fa-0b00-4f8e-9882-c7501581dc2d")
+		)
+		(pin "5"
+			(uuid "5f081f2d-c389-41a2-abf7-dfd769880c8a")
+		)
+		(pin "-3"
+			(uuid "ff77a96d-8844-46d8-a72f-aad12414ee96")
 		)
 		(pin "4"
-			(uuid "17214f5a-08ec-4c0b-b671-02c50584233d")
+			(uuid "c4a6fd65-1bed-47d7-8630-fa1037778d7e")
+		)
+		(pin "-7"
+			(uuid "a0cb3f0b-6d3e-4879-8363-21359d90e404")
+		)
+		(pin "-2"
+			(uuid "77239852-0664-4ea7-aa01-aa640614009c")
+		)
+		(pin "-4"
+			(uuid "48b1f419-fb43-45dc-bfb6-2064ebc397d5")
+		)
+		(pin "6"
+			(uuid "0bbfc3cc-4db4-4594-aed7-9fd75afeaf20")
+		)
+		(pin "3"
+			(uuid "c8d8672d-c8c2-41a5-a939-90f8867043da")
 		)
 		(instances
 			(project ""
