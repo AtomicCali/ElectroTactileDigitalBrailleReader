@@ -3427,7 +3427,7 @@
 		(property "Reference" "U2"
 			(at 6 1.5 0)
 			(unlocked yes)
-			(layer "F.SilkS")
+			(layer "User.1")
 			(uuid "0384248a-5099-4a0b-925f-7585339763ed")
 			(effects
 				(font
